@@ -1,8 +1,10 @@
 ### Hi there 👋
 ## Rafał Protasiuk
+### About me
+IT, learning and development are very important for me. ❤️<br><br>
 [<img align="left" alt="github" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/rafinder1?tab=repositories)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafa%C5%82-protasiuk-466920170/)
-[<img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />]([https://www.youtube.com/@andrzejszelag4331/videos](https://studio.youtube.com/channel/UCLOMcAhiV0FXRWnyEOhqbpA/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D))
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://studio.youtube.com/channel/UCLOMcAhiV0FXRWnyEOhqbpA/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rafpro33@gmail.com)<br><br>
 <!--
 **rafinder1/rafinder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
